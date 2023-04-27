@@ -1,0 +1,15 @@
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\bin\Debug\net6.0\SistemaLocadoraFilmes.exe
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\bin\Debug\net6.0\SistemaLocadoraFilmes.deps.json
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\bin\Debug\net6.0\SistemaLocadoraFilmes.runtimeconfig.json
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\bin\Debug\net6.0\SistemaLocadoraFilmes.dll
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\bin\Debug\net6.0\SistemaLocadoraFilmes.pdb
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\SistemaLocadoraFilmes.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\SistemaLocadoraFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\SistemaLocadoraFilmes.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\SistemaLocadoraFilmes.AssemblyInfo.cs
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\SistemaLocadoraFilmes.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\SistemaLocadoraFilmes.dll
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\refint\SistemaLocadoraFilmes.dll
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\SistemaLocadoraFilmes.pdb
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\SistemaLocadoraFilmes.genruntimeconfig.cache
+C:\Users\Caio Sousa\source\repos\SistemaLocadoraFilmes\SistemaLocadoraFilmes\obj\Debug\net6.0\ref\SistemaLocadoraFilmes.dll
